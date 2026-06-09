@@ -28,5 +28,6 @@ and cosine similarity.
 
 ## 👩‍💻 Author
 **Allu Sree Lasya**
+
 Vignan's Lara Institute of Technology and Science
 Future Interns ML Internship - May/June 2026
